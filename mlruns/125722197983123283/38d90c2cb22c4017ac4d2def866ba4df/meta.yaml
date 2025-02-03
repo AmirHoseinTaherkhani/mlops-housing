@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/necromancer/Desktop/MyFiles/MLOps/mlruns/125722197983123283/38d90c2cb22c4017ac4d2def866ba4df/artifacts
+end_time: 1738613922716
+entry_point_name: ''
+experiment_id: '125722197983123283'
+lifecycle_stage: active
+run_id: 38d90c2cb22c4017ac4d2def866ba4df
+run_name: unequaled-turtle-139
+run_uuid: 38d90c2cb22c4017ac4d2def866ba4df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738613921431
+status: 3
+tags: []
+user_id: necromancer

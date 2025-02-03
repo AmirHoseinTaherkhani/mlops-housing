@@ -1,0 +1,7 @@
+stages:
+  train_model:
+    cmd: python scripts/train.py
+    deps:
+    - scripts/train.py
+    outs:
+    - models/linear_regression.pkl

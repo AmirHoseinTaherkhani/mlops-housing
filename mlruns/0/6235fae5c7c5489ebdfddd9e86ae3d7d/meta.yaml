@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6235fae5c7c5489ebdfddd9e86ae3d7d/artifacts
+end_time: 1738615281297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6235fae5c7c5489ebdfddd9e86ae3d7d
+run_name: bold-turtle-657
+run_uuid: 6235fae5c7c5489ebdfddd9e86ae3d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738615281262
+status: 3
+tags: []
+user_id: necromancer

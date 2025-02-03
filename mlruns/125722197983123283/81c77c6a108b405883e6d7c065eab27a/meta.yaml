@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/necromancer/Desktop/MyFiles/MLOps/mlruns/125722197983123283/81c77c6a108b405883e6d7c065eab27a/artifacts
+end_time: 1738615765029
+entry_point_name: ''
+experiment_id: '125722197983123283'
+lifecycle_stage: active
+run_id: 81c77c6a108b405883e6d7c065eab27a
+run_name: defiant-whale-87
+run_uuid: 81c77c6a108b405883e6d7c065eab27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738615762708
+status: 3
+tags: []
+user_id: necromancer

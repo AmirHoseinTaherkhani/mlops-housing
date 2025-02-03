@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/201c6f78e53548b3819d10ee3fd844c2/artifacts
+end_time: 1738614687555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 201c6f78e53548b3819d10ee3fd844c2
+run_name: agreeable-mole-98
+run_uuid: 201c6f78e53548b3819d10ee3fd844c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738614687547
+status: 3
+tags: []
+user_id: necromancer

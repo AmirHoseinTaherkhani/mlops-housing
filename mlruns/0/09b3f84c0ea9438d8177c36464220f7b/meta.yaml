@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/09b3f84c0ea9438d8177c36464220f7b/artifacts
+end_time: 1738615347577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09b3f84c0ea9438d8177c36464220f7b
+run_name: fun-shoat-937
+run_uuid: 09b3f84c0ea9438d8177c36464220f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738615347543
+status: 3
+tags: []
+user_id: necromancer

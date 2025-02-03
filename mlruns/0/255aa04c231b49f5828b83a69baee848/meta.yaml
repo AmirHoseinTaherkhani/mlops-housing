@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/255aa04c231b49f5828b83a69baee848/artifacts
+end_time: 1738614787297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 255aa04c231b49f5828b83a69baee848
+run_name: thundering-crow-790
+run_uuid: 255aa04c231b49f5828b83a69baee848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738614787291
+status: 3
+tags: []
+user_id: necromancer
