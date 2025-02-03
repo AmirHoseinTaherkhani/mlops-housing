@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/necromancer/Desktop/MyFiles/MLOps/mlruns/226114408603875580/3be78250d6db4d88a88a5ae7678e3be4/artifacts
+end_time: 1738200674344
+entry_point_name: ''
+experiment_id: '226114408603875580'
+lifecycle_stage: active
+run_id: 3be78250d6db4d88a88a5ae7678e3be4
+run_name: rogue-skink-969
+run_uuid: 3be78250d6db4d88a88a5ae7678e3be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738200674340
+status: 3
+tags: []
+user_id: necromancer
