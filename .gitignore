@@ -3,3 +3,25 @@ data/
 .DS_Store
 mlops_env/
 /data
+# Ignore MLflow artifacts
+mlruns/
+models/
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+mlops_env/
+
+# Ignore Jupyter notebook checkpoints
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Ignore data files
+data/*.csv
+data/*.json
+data/*.xlsx
+data/*.zip
+
